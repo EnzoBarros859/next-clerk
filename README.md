@@ -1,4 +1,5 @@
 # Next.js Clerk Authentication Project
+![image](https://github.com/user-attachments/assets/fc775c93-4218-493d-ba69-c086a661d7ad)
 
 This project demonstrates a modern authentication system using Clerk with Next.js, featuring a custom profile management system.
 
